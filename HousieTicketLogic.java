@@ -1,4 +1,4 @@
-package com.kayana;
+package com.skc;
 
 import java.util.Random;
 import java.util.Scanner;
